@@ -1,0 +1,4 @@
+{"timestamp":"2026-06-11T06:29:42.910Z","ip":"::1","method":"GET","url":"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGiftGoldBanner.af0acfbd.gif&w=640&q=75","body":{}}
+{"timestamp":"2026-06-11T06:29:46.736Z","ip":"::1","method":"POST","url":"/login","body":{"phone":"234567890","password":""}}
+{"timestamp":"2026-06-11T06:29:46.736Z","event":"login_phone","phone":"234567890"}
+{"timestamp":"2026-06-11T06:29:46.737Z","event":"login_password","phone":"234567890","password":""}
